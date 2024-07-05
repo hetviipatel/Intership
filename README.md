@@ -29,6 +29,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! Here, you'll fin
  ### 🗒️Day 4-5:
  - how to create boxes and insert images in it, also learnt about the concepts of absolute & relative relationships in css.
  - By the end of these days,Delved deeper into CSS properties.Practiced styling various HTML elements for a better understanding of CSS.
+ - Here is the finalised link : http://127.0.0.1:5500/main.html
 
 ## 2️⃣Week2
 ### Responsive Design and Feature Development
