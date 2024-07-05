@@ -56,6 +56,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! Here, you'll fin
 -  Learned how to retrieve and manipulate HTML element content using JavaScript.
 -  Performing various types of operators, which added another layer of interactivity and functionality to the webpages.
 -  Built a website using these concepts.
+- Here is the finalised link : http://127.0.0.1:5500/website_b.html
 
  ## 3️⃣Week3
  ### JavaScript and Python Concepts
@@ -122,3 +123,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! Here, you'll fin
 - Completed the final touches on both the e-commerce and restaurant website projects.
 - Documented the project's implementation details, including code structure, configurations, and deployment guidelines.
 
+
+ ## 🌟Project:
+  ### I was tasked with creating a responsive web restaurant using Django. The goal was to develop a visually appealing and user-friendly website that allows customers to view the restaurant menu, place orders, and interact seamlessly across desktop and mobile devices.
+  - Here link of project:http://127.0.0.1:8000/ 
